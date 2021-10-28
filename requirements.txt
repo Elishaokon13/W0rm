@@ -1,0 +1,17 @@
+nmap
+paramiko
+os
+socket
+urllib.request
+urlopen
+urllib
+time
+FTP
+ftplib
+copy2
+win32api
+netifaces
+Thread
+
+networking
+coloredlogs, logging
